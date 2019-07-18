@@ -1,23 +1,12 @@
 # PythonDayOne
+Using Custom Modules
 
-Python data type 
+Create 2 custom Modules addStr.py and addNumMod.py and put in current dir and libDir respectively.
 
-str ,int ,float etc
+addStr.py in current directory of python program (import addStr as ad) 
 
-Python need not provide data type explicitly
-
-
-Begin with Python Programming - Day1 program
+addNumMod.py in libDir and import (from libDir import addNumMod as a ) 
 
 
 
-Day one Content 
-########################################################
-Data types 
-
-Type Conversion 
-
-Arguments
-
-Literals
 
